@@ -1,0 +1,101 @@
+[
+        {
+                "id": 1,
+                "name": "Volkswagen Tiguan",
+                "year": "2021",
+                "price": "256.633,00",
+                "fuel": "Gasolina",
+                "seats": 7,
+                "type": "SUV"
+        },
+        {
+                "id": 2,
+                "name": "Volvo XC90",
+                "year": "2022",
+                "price": "454.529,00",
+                "fuel": "Hibrido",
+                "seats": 7,
+                "type": "SUV"
+        },
+        {
+                "id": 3,
+                "name": "Chery Tiggo 8",
+                "year": "2021",
+                "price": "172.944,00",
+                "fuel": "Gasolina",
+                "seats": 7,
+                "type": "SUV"
+        },
+        {
+                "id": 4,
+                "name": "Hyundai Creta",
+                "year": "2022",
+                "price": "114.014,00",
+                "fuel": "Gasolina",
+                "seats": 5,
+                "type": "SUV"
+        },
+        {
+                "id": 5,
+                "name": "Chery Arrizo 6",
+                "year": "2021",
+                "price": "112.576,00",
+                "fuel": "Gasolina",
+                "seats": 5,
+                "type": "Sedan"
+        },
+        {
+                "id": 6,
+                "name": "Hyundai Azera",
+                "year": "2020",
+                "price": "273.937,00",
+                "fuel": "Gasolina",
+                "seats": 5,
+                "type": "Sedan"
+        },
+        {
+                "id": 7,
+                "name": "Volvo XC 40 Recharge",
+                "year": "2022",
+                "price": "373.320,00",
+                "fuel": "Elétrico",
+                "seats": 5,
+                "type": "SUV Compacto"
+        },
+        {
+                "id": 8,
+                "name": "Hyundai Sonata",
+                "year": "2012",
+                "price": "63.760,00",
+                "fuel": "Gasolina",
+                "seats": 5,
+                "type": "Sedan"
+        },
+        {
+                "id": 9,
+                "name": "Honda WR-V",
+                "year": "2021",
+                "price": "106.059,00",
+                "fuel": "Gasolina",
+                "seats": 5,
+                "type": "SUV Compacto"
+        },
+        {
+                "id": 10,
+                "name": "Volvo S90",
+                "year": "2022",
+                "price": "398.017,00",
+                "fuel": "Híbrido",
+                "seats": 5,
+                "type": "Sedan"
+        },
+        {
+                "id": 12,
+                "name": "Mercedes-Benz E300",
+                "year": "2022",
+                "price": "555.990,00",
+                "fuel": "Gasolina",
+                "seats": 5,
+                "type": "Sedan"
+        }
+]
